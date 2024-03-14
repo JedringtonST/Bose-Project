@@ -11,7 +11,7 @@ Inside contains:
 
 
 
-You can build the project but running make inside the root directory for each of the 3 different projects. If you would like to run it in eclipse there is a readme [Found Here](https://github.com/STMicroelectronics/ispu-examples) included that describes in detail the steps required. 
+You can build the project but running make inside the root directory for each of the 3 different projects. If you would like to run it in eclipse there is a readme [Found Here](https://github.com/JedringtonST/Bose-Project/tree/main/norm_example) included that describes in detail the steps required. 
 
 To get the command line running you can find the information in our github ispu-examples [Found Here](https://github.com/STMicroelectronics/ispu-examples) .
 
