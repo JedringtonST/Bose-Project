@@ -1,0 +1,6 @@
+../Core/Src/application.c:138:6:read	24	static
+../Core/Src/application.c:143:6:write	32	static
+../Core/Src/application.c:31:6:application	64	static
+../Core/Src/application.c:148:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/application.c:164:5:_write	8	static
+../Core/Src/application.c:171:6:HAL_GPIO_EXTI_Callback	8	static
